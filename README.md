@@ -1,5 +1,5 @@
 
-# Algorthmic Trading Strategy for BTC/USDT
+# Algorthmic Trading Strategy for BTC/USD
 
 ## Market Dynamics
 
